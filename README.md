@@ -23,19 +23,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create VM and login into it via. Microsoft Remote
+- Change settings in Control Panel.
+- Download necessary components for OS Ticket and MySQL.
+- Insert credentials in notepad.
+- Insert information for OS Ticket, and login.
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img height="80%" width="80%" alt="Screenshot 2024-07-15 at 10 00 06 AM" src="https://github.com/user-attachments/assets/183acd9e-6425-463d-8d60-c9db991ed083">
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> I went into Azure and created a Virtual Machine with a Windows OS.
 </p>
 <br />
 
