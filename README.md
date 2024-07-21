@@ -23,11 +23,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create VM and login into it via. Microsoft Remote
-- Change settings in Control Panel.
-- Download necessary components for OS Ticket and MySQL.
-- Insert credentials in notepad.
-- Insert information for OS Ticket, and login.
+- Step 1 Create VM and login into it via. Microsoft Remote
+- Step 2 Change settings in Control Panel.
+- Step 3 Download necessary components for OS Ticket and MySQL.
+- Step 4 Insert credentials in notepad.
+- Step 5 Insert information for OS Ticket, and login.
 
 <h2>Installation Steps</h2>
 
